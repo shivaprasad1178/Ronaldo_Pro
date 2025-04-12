@@ -104,4 +104,4 @@ st.sidebar.markdown('<div class="sidebar-text">This app allows you to ask questi
 
 # Add a footer
 st.markdown("---")
-st.markdown("Made by Arvin")
+st.markdown("Made by Shiva")
